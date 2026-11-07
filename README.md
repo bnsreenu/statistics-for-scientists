@@ -6,9 +6,11 @@ These tutorials cover statistical concepts that come up in everyday research: ho
 
 ## Tutorials
 
-| # | Topic | Folder | Video |
-|---|---|---|---|
-| 01 | When is 90% not 90%? Understanding confidence intervals for percentages (Clopper-Pearson) | [`01_clopper_pearson_confidence_interval`](01_clopper_pearson_confidence_interval) | [Watch on YouTube](VIDEO_LINK) |
+All videos are collected in the YouTube playlist: [Statistics for scientists](PLAYLIST_LINK)
+
+| # | Topic | Folder |
+|---|---|---|
+| 01 | When is 90% not 90%? Understanding confidence intervals for percentages (Clopper-Pearson) | [`01_clopper_pearson_confidence_interval`](01_clopper_pearson_confidence_interval) |
 
 Each folder is self-contained, with its own notebook and README describing the requirements and any datasets.
 
